@@ -66,3 +66,5 @@ public class Sale {
         this.amount = amount;
     }
 }
+
+//heroku git:remote -a dsmeta-colinbruna
