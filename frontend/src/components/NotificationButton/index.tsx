@@ -6,7 +6,6 @@ import'./styles.css';
 
 type Props = {
     saleId: number;
-
 }
 
 function handleClick(saleId: number) {
